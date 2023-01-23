@@ -1,0 +1,10 @@
+batch_size: 16
+train_dogs_path: './dataset/test_set/dogs/'
+train_cats_path: './dataset/test_set/cats/'
+test_dogs_path: './dataset/training_set/dogs/'
+test_cats_path: './dataset/training_set/cats/'
+
+network:
+  in_nc: 3
+  base_nc: 32
+  out_nc: 2

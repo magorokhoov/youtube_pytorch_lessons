@@ -3,6 +3,8 @@ Contain notes and code from my YT pytorch lessons.
 
 Храню записи и код со своих YT pytorch уроков 
 
+Ссылка на Youtube канал: https://www.youtube.com/@magorokhoov
+
 ## Описание
 0. Классификатор MNIST
 1. Классификатор Dogs and Cats (custom dataset

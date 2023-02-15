@@ -13,3 +13,4 @@ Contain notes and code from my YT pytorch lessons.
 4. Переносим обучение на GPU с поддержкой AMP (float16; Automatic mixed percision)
 5. Пишем подобие Resnet с нуля
 6. Конфигуратор на YAML
+7. Многофайловый проект

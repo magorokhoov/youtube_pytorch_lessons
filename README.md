@@ -14,3 +14,5 @@ Contain notes and code from my YT pytorch lessons.
 5. Пишем подобие Resnet с нуля
 6. Конфигуратор на YAML
 7. Многофайловый проект
+8. Transfer learning - использует веса предобученныйх vgg/resnet
+9. Unet. Простая сегментация
